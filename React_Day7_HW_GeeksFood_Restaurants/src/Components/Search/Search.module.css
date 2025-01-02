@@ -1,0 +1,34 @@
+.search_con{
+    height: 15vh;
+    /* background-color: red; */
+    width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10vh;
+}
+
+.search_input{
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    padding: 1rem;
+    font-size: 1.2rem;
+    outline: none;
+    border: 1px solid grey;
+
+}
+
+.rating{
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    padding: 1rem;
+    font-size: 1.2rem;
+    outline: none;
+    border: 1px solid grey;
+}
+

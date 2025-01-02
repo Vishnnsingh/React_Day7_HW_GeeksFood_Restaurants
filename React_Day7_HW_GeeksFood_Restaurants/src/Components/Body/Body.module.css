@@ -1,0 +1,9 @@
+.main_con{
+    width: 95%;
+    /* background-color: cyan; */
+    margin:auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1rem;
+    place-items: center;
+}
