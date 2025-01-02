@@ -1,4 +1,4 @@
-import styles from './Nav.module.css'
+import styles from '../Nav/Nav.module.css'
 
 function Nav(){
 
